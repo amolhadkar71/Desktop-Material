@@ -1,0 +1,157 @@
+Network Moddel
+Topologies
+Types of networks
+Modes of transmission
+Ip Address
+Transmission media
+troubleshooting commands
+network troubleshooting
+proxy server
+remote desktop
+wireless
+osi model
+tcp/ip model
+protocols
+
+======================================================
+Types of network models:
+1. Peer to peer model P2P
+2. Server client model
+
+Basics of Networking :
+--------------------------
+A networking consist of 2 or more computers connected toether, and they can communicate and share the resources(eg. inofrmation).
+
+Advantages of networking:
+--------------------------
+Data sharing
+Hardware devices sharing
+Working is faster
+reducess the time
+ we can book ticket online
+reduce the cost of organization
+we can do bank trasnsaction sitting from home
+voice and video chatting and conference
+communication is faster
+online shopping
+
+Disadvantges of networking:
+
+Network models:
+---------------------
+Peer to peer model (Workgroup model)
+client server model(Domain model)
+
+eer to peer model:
+---------------------
+Clients and sever are not distinguished
+All the nodes are having same persmission
+
+Advantages of peer to peer network:
+low cost
+simple to configure
+user has full accessiblity of the computer
+
+disadvantages:
+may have duplication in resources
+difficult to use security policy
+difficult to handle
+
+Client server model:
+------------------------
+there is a specific server and specific clients
+all the clients are connected to the server
+all the clients are controlled by server
+
+Advantages of server client model or server based networks:
+------------------------------------------------------------
+sharing resoources
+security
+centralized management (users and computers)
+centralized administration and control
+easy to maintain the network
+facility of system backup
+fault tolerance
+
+servers:
+Servers are typically powerful computers that run the software that controls and maintains the network. There are some of thr servers which are user to perform a particular task:
+file servers
+print servers
+iis web servers
+proxy server:used to manage internet user
+exchange servers
+dhcp server
+dns server
+wds
+
+Types of network:
+Networks are typically classified by the amont of geographical coverage.
+Local area network
+Metropolitan area network
+wide area network
+
+Local area network:
+a local area network is a group of systems associated in a relatively small area. It connects devices in a limited gergraphical area using or more hubs or switches.
+Lan can also be interconnected withing a building.
+
+Metropolitan area network:
+MAN is the network which interconnects larger computer networks in which two or more computers are connected across a city. This network use wireless infrastracutre or optical fiber connections to link thir sites.
+
+Imp Features :
+A man typically covers an area of between 5 to 50 km diameters.
+A man often acts as a high speed network to allow sharing of resources.
+
+Wide area network:
+Wide area network provides network connectivity over large geographical areas between countries. WAN consists of multiple LANs and MANs in a network over a large geographical area.
+
+Campus area network(CAN):
+A CAN or corporate area network is a network made up of an interconnection of local area networks within a limited area. A campus area network is larger than a local area network.
+
+Some other Networks :
+PAN: the samllest type of network you can currently use and the name comes from Personal area networl.
+
+SAN: Storage Area network that connects severs to data storage devices with the use of a specific technology
+
+DAN: Desk area network is an inteconnection of computer devices using ATM(Asynchronous Transfer Mode).
+
+Topology
+The topology of a network
+
+It is a design of network or structure of an network
+
+There are two basic categories of network topologies:
+physical topology-how devices are connected to each other
+logical topology
+
+Physcial topology: 
+defines how the nodes of the network are physically connected
+It refers to the layout of cabling, the locations of nodes, and the interconnections between the nodes and the cabling.
+
+
+Logical topology:
+how data is transmitted between nodes
+It is the way that the data passes through the network from one device to another.
+
+Different types of topologies:
+Bus,ring,star, mesh, tree and hybrid.
+
+Bus topology:
+A bus topology is multipoint.
+Here one long cable act as a backbone all the devices are connected to the backbone cable.
+This allows only one device to transmit at a time.
+(TV DISH)
+Advantages:
+ease of installation.
+less expensive
+
+Disadvantages:
+difficult to add new features.
+If any fault in the backbone can stops all trasmission.
+
+Ring Topology
+Here each device has a dedicated connection with two devices on either side.
+The signal is passed in one direction from device to device until it reaches the destination.
+When one device received signals its repeater then regenerates the data and passes them along.
+Advantages:
+Easy to install
+easy to reconfigure

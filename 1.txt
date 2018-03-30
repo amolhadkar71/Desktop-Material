@@ -1,0 +1,1 @@
+Basically interrupt is a signal which can be generated from particular hardware or particular program execution.

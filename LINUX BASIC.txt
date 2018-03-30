@@ -1,0 +1,36 @@
+Linux kernel 
+Macro-device driver and Micro
+
+	Kernel space position of main memory where os is present 
+
+	Only for booting the application is user space where it does not have permision to hw components
+
+
+	kernel space- entire os loaded in main memory and this mm has privilege to accesss hw componenet.
+	eg. memory management etc.
+
+	user space eg. browser everything has run from user space.
+
+##PROCESS OF THE SYSTEM: A PROCESS CAN GO TO DIFFERENT STAGES 
+ CREATE-READY-RUNNING-SLEEP-TERMINATE OR SUSPENDED-WAIT OR BLOCKED	
+		
+
+
+Booting process:
+https://www.thegeekstuff.com/2011/02/linux-boot-process
+
+
+/etc/rc.d/rc5.d/
+ls -l
+
+ls-l|grep sshd 	(Start)
+chkconfig sshd off
+ls -l|grep sshd	(Kill bcoz it has been stopped)
+
+chkconfig-use to off or on the services
+
+service sshd status
+above command is used to see the service status or we can do start or stop		
+
+/ is the top order
+ there are 2 kinds of directory
